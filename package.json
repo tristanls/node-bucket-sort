@@ -6,8 +6,10 @@
     "test": "node scripts/test.js"
   },
   "main": "index.js",
+  "dependencies": {
+    "insertion-sort": "0.1.1"
+  },
   "devDependencies": {
-    "insertion-sort": "0.1.1",
     "nodeunit": "0.8.1"
   },
   "repository": {
